@@ -103,3 +103,8 @@ Deliverables:
 •	Documentation of quality control procedures.
 ![aws-academy-graduate-aws-academy-cloud-foundations](https://github.com/user-attachments/assets/2d99a566-724b-42c2-aa8e-7be66fb48b81)
 
+![c3](https://github.com/user-attachments/assets/91b650f4-58aa-4d0c-bb50-754f6f8644c9)
+![c4](https://github.com/user-attachments/assets/1fd3a4db-0703-488d-8cef-9fc5c3ceaeab)
+![c5](https://github.com/user-attachments/assets/bafcf67d-1b04-4bb9-991f-7662993b9f7e)
+![c1](https://github.com/user-attachments/assets/a5c79374-884b-42b7-bf76-3b2f44cee037)
+![c2](https://github.com/user-attachments/assets/cd55477d-aa55-4711-9eb2-bb20e75805c0)
