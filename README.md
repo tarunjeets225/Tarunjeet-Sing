@@ -101,4 +101,5 @@ Deliverables:
 •	Complete data quality metrics report.
 •	Validated dataset ready for analysis.
 •	Documentation of quality control procedures.
+![aws-academy-graduate-aws-academy-cloud-foundations](https://github.com/user-attachments/assets/2d99a566-724b-42c2-aa8e-7be66fb48b81)
 
